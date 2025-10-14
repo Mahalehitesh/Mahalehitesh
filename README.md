@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I'm Hitesh Mahale
 
-<!--
-**Mahalehitesh/Mahalehitesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year **B.Tech Data Science** student  
+💻 Passionate about exploring data, building apps, and learning new tech  
+🌱 Currently learning **AWS | AI | Data Analytics**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Skills
+**Languages:** Python | Java | HTML | CSS | SQL  
+**Tools & Technologies:** MySQL | JSP | Servlets | GitHub | VS Code  
+
+---
+
+### 🚀 Projects
+- 🌊 **Flood Alert System:** A Java Servlet-based system for flood reporting and alerts.  
+- 🚜 **Direct Market Access App for Farmers:** Mobile app to connect farmers directly with buyers.  
+- 🤖 **AICTE NLP Internship:** Worked on word embeddings and TF-IDF for text analysis.  
+
+---
+
+### 📫 Contact Me
+📧 Email: [mahalehitesh746@gmail.com](mailto:mahalehitesh746@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahalehitesh&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahalehitesh&layout=compact&theme=tokyonight)
