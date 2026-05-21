@@ -9,6 +9,7 @@
 ### 🧰 Skills
 **Languages:** Python | Java | HTML | CSS | SQL  
 **Tools & Technologies:** MySQL | GitHub | VS Code  
+**Cloud Platform:** Amazon Web Services(AWS)
 
 ---
 
