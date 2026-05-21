@@ -8,7 +8,7 @@
 
 ### 🧰 Skills
 **Languages:** Python | Java | HTML | CSS | SQL  
-**Tools & Technologies:** MySQL | JSP | Servlets | GitHub | VS Code  
+**Tools & Technologies:** MySQL | GitHub | VS Code  
 
 ---
 
