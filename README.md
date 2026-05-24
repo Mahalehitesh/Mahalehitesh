@@ -13,13 +13,6 @@
 
 ---
 
-### 🚀 Projects
-- 🌊 **Flood Alert System:** A Java Servlet-based system for flood reporting and alerts.  
-- 🚜 **Direct Market Access App for Farmers:** Mobile app to connect farmers directly with buyers.  
-- 🤖 **AICTE NLP Internship:** Worked on word embeddings and TF-IDF for text analysis.  
-
----
-
 ### 📫 Contact Me
 📧 Email: [mahalehitesh746@gmail.com](mailto:mahalehitesh746@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
