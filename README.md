@@ -17,7 +17,4 @@
 📧 Email: [mahalehitesh746@gmail.com](mailto:mahalehitesh746@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
 
----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahalehitesh&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahalehitesh&layout=compact&theme=tokyonight)
